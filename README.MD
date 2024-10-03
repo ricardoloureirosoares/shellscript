@@ -1,12 +1,12 @@
-# Introdução ao Linux e Programação em Script-Shell
+# UNIX Shell Scripts
 
-Este repositório contém material introdutório sobre o sistema operacional Linux e programação em script-shell, produzido pelo Programa de Educação Tutorial (PET-Telecomunicações) da Universidade Federal Fluminense.
+Este repositório contém material sobre scripts de shell no sistema UNIX, cobrindo tópicos como a estrutura de scripts, parâmetros de entrada, controle de fluxo e exercícios práticos. O material é baseado nas aulas do Prof. Carlos Maziero da Universidade Federal do Paraná.
 
-## Conteúdo
-- [Capítulo 1: Conceitos Gerais](capitulo1.md)
-- [Capítulo 2: Introdução ao Linux](capitulo2.md)
-- [Capítulo 3: Comandos](capitulo3.md)
-- [Referências](referencias.md)
-
-## Como Utilizar
-Navegue pelos arquivos para acessar o conteúdo detalhado sobre o uso do Linux e Shell Script.
+## Tópicos
+- [Estrutura Geral de um Script](estrutura_geral_script.md)
+- [Parâmetros de Entrada](parametros_entrada.md)
+- [Controle de Fluxo](controle_fluxo.md)
+- [Condições](condicoes.md)
+- [Laços](lacos.md)
+- [Operadores Aritméticos](operadores_aritmeticos.md)
+- [Exercícios](exercicios.md)
