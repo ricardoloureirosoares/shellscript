@@ -16,3 +16,6 @@ tar czf /backup/home.tar.gz /home
 umount /backup
 
 echo "Backup concluido!"
+
+
+Quando o script backup.sh for executado, os comandos do arquivo serão executados em sequência pelo shell corrente.
